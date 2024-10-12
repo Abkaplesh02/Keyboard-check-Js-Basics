@@ -1,0 +1,47 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+
+.Navigation{
+    background-color: darkgrey;
+    padding-top: 10px;
+    padding-bottom:10px;
+    text-align: center;
+    margin-top: -8px;
+    width: 100vw;
+}
+
+.Navigation a{
+    text-decoration: none;
+    border: #212121 solid 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: grey;
+    color: black;
+}
+
+.project{
+
+text-align: center;
+background-color: #1c1c1c;
+display: flex;
+justify-content: center;
+height: 100vh;
+}
+
+table , th, tr,td{
+    border: 1px solid white;
+}
+
+#insert{
+text-align: center;
+
+}
+
+.key{
+padding-top: 200px;
+
+}
